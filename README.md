@@ -3,7 +3,7 @@
 **Contribution Number:** 1
 **Student:** Joy Lin  
 **Issue:** https://github.com/BasedHardware/omi/issues/3559
-**Status:** Phase I In Progress
+**Status:** Phase I Complete
 
 ---
 
