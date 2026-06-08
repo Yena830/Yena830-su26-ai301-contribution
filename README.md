@@ -1,4 +1,4 @@
-# Contribution [#]: [Issue Title]
+# Contribution 1: Disable "Update App" button in Omi app store when no changes are made
 
 **Contribution Number:** 1
 **Student:** Joy Lin  
