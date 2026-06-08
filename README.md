@@ -1,15 +1,22 @@
 # Contribution [#]: [Issue Title]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1
+**Student:** Joy Lin  
+**Issue:** https://github.com/BasedHardware/omi/issues/3559
+**Status:** Phase I In Progress
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because it involves React/TypeScript frontend 
+logic, which matches my experience building full-stack AI applications. 
+The scope is clear and bounded — implementing an isDirty check to 
+compare original and current form state to control button behavior.
+
+I'm also interested in contributing to Omi because its tech stack 
+(FastAPI, LangChain, Pinecone) is similar to projects I've built 
+before, making it easier to ramp up on the codebase quickly.
 
 ---
 
